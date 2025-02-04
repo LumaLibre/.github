@@ -1,8 +1,8 @@
-<div style="text-align: center;">
-<a href="https://lumamc.net">
-  <img src="../images/luma-text.png" alt="LumaMC" width="" height="300">
-</a>
-</div>
+<p align="center">
+  <a href="https://lumamc.net">
+    <img src="../images/luma-text.png" alt="LumaMC" width="" height="300">
+  </a>
+</p>
 <!--
 <a href="https://lumamc.net">
   <img src="../images/luma-fll.png" alt="LumaMC" width="80" height="80">
