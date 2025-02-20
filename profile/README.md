@@ -38,3 +38,10 @@ This is [LumaMC's](https://lumamc.net) Github Organization. You'll find some rep
 <br/>
 
 **Thank you for your interest in Luma and our work. ❤️**
+
+<br/>
+
+<a href="https://lumamc.net">
+  <img src="../images/BX_CROPPED.png" alt="BreweryX" width="10" height="10">
+</a>
+Pssst! Looking for BreweryX or it's addons? Check out the organization for it here!
