@@ -41,7 +41,7 @@ This is [LumaMC's](https://lumamc.net) Github Organization. You'll find some rep
 
 <br/>
 
-<a href="https://lumamc.net">
+<a href="https://brewery.lumamc.net">
   <img src="../images/BX_CROPPED_2.png" alt="BreweryX" width="30" height="30">
 </a>
-Pssst! Looking for BreweryX or it's addons? Check out the organization for it here!
+Pssst! Looking for BreweryX or its addons? Check out the organization for it `[here](https://github.com/BreweryTeam/BreweryX)`!
